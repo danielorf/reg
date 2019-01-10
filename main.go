@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/danielorf/reg/registry"
+	"github.com/danielorf/reg/repoutils"
+	"github.com/danielorf/reg/version"
 	"github.com/genuinetools/pkg/cli"
-	"github.com/genuinetools/reg/registry"
-	"github.com/genuinetools/reg/repoutils"
-	"github.com/genuinetools/reg/version"
 	"github.com/sirupsen/logrus"
 )
 

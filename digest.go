@@ -5,7 +5,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/genuinetools/reg/registry"
+	"github.com/danielorf/reg/registry"
 )
 
 const digestHelp = `Get the digest for a repository.`

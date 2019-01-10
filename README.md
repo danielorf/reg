@@ -1,8 +1,8 @@
 # reg
 
-[![Travis CI](https://img.shields.io/travis/genuinetools/reg.svg?style=for-the-badge)](https://travis-ci.org/genuinetools/reg)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=for-the-badge)](https://godoc.org/github.com/genuinetools/reg)
-[![Github All Releases](https://img.shields.io/github/downloads/genuinetools/reg/total.svg?style=for-the-badge)](https://github.com/genuinetools/reg/releases)
+[![Travis CI](https://img.shields.io/travis/danielorf/reg.svg?style=for-the-badge)](https://travis-ci.org/danielorf/reg)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=for-the-badge)](https://godoc.org/github.com/danielorf/reg)
+[![Github All Releases](https://img.shields.io/github/downloads/danielorf/reg/total.svg?style=for-the-badge)](https://github.com/danielorf/reg/releases)
 
 Docker registry v2 command line client and repo listing generator with security checks.
 
@@ -31,12 +31,12 @@ Docker registry v2 command line client and repo listing generator with security 
 
 #### Binaries
 
-For installation instructions from binaries please visit the [Releases Page](https://github.com/genuinetools/reg/releases).
+For installation instructions from binaries please visit the [Releases Page](https://github.com/danielorf/reg/releases).
 
 #### Via Go
 
 ```console
-$ go get github.com/genuinetools/reg
+$ go get github.com/danielorf/reg
 ```
 
 ## Usage
